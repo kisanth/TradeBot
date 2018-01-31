@@ -1,0 +1,2 @@
+# TradeBot
+Altcoin Trading bot 
